@@ -1,4 +1,4 @@
-# Analyze-NYSE-Data
+# Project Details: Analyze NYSE Data
  This is the 2nd project in Udacity's Business Analytics Nanodegree which used Google Sheets for analysis and modeling
 
 As can be seen from the [Project Details](https://github.com/KOdoi-OJ/Analyze-NYSE-Data/blob/main/Project%20Details.pdf) file, the objectives of the project were to:
